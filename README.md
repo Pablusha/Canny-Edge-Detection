@@ -1,6 +1,6 @@
 # Canny-Edge-Detection
 
-# We Need Lower And Upper Thresholds.
+# We Create A Lower And Upper Thresholds.
 ![Screenshot_7](https://user-images.githubusercontent.com/53290728/64062883-3a79d600-cbf5-11e9-9f29-0502983d4a1e.png)
 
 ![Screenshot_8](https://user-images.githubusercontent.com/53290728/64062902-7f057180-cbf5-11e9-9628-f312276cf1d5.png)
